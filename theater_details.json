@@ -1,0 +1,472 @@
+[
+  {
+    "theater_id": "T011",
+    "theater_name": "Carnival Cinemas",
+    "location": "Kochi",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "09:30", "movie": "Dragon", "languages": ["English", "Hindi"] },
+          { "time": "12:30", "movie": "Vidaamuyarchi", "languages": ["Tamil"] },
+          { "time": "15:30", "movie": "Retro", "languages": ["Tamil", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "10:00", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] },
+          { "time": "13:00", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "16:00", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "11:00", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] },
+          { "time": "14:00", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] },
+          { "time": "17:00", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "12:00", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] },
+          { "time": "15:00", "movie": "Thuglife", "languages": ["Tamil"] },
+          { "time": "18:00", "movie": "Tourist Family", "languages": ["Tamil", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "10:30", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] },
+          { "time": "13:30", "movie": "Good Bad Ugly", "languages": ["Tamil"] },
+          { "time": "16:30", "movie": "Dragon", "languages": ["English", "Hindi"] }
+        ]
+      }
+    ]
+  },
+  {
+    "theater_id": "T012",
+    "theater_name": "AGS Cinemas",
+    "location": "Chennai",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "10:15", "movie": "Vidaamuyarchi", "languages": ["Tamil"] },
+          { "time": "13:15", "movie": "Retro", "languages": ["Tamil", "English"] },
+          { "time": "16:15", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "11:00", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "14:00", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "17:00", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "09:45", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] },
+          { "time": "12:45", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] },
+          { "time": "15:45", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "10:30", "movie": "Thuglife", "languages": ["Tamil"] },
+          { "time": "13:30", "movie": "Tourist Family", "languages": ["Tamil", "English"] },
+          { "time": "16:30", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "11:15", "movie": "Good Bad Ugly", "languages": ["Tamil"] },
+          { "time": "14:15", "movie": "Dragon", "languages": ["English", "Hindi"] },
+          { "time": "17:15", "movie": "Vidaamuyarchi", "languages": ["Tamil"] }
+        ]
+      }
+    ]
+  },
+  {
+    "theater_id": "T013",
+    "theater_name": "Escape Cinemas",
+    "location": "Chennai",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "10:00", "movie": "Retro", "languages": ["Tamil", "English"] },
+          { "time": "13:00", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] },
+          { "time": "16:00", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "10:30", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "13:30", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] },
+          { "time": "16:30", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "11:00", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] },
+          { "time": "14:00", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] },
+          { "time": "17:00", "movie": "Thuglife", "languages": ["Tamil"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "12:00", "movie": "Tourist Family", "languages": ["Tamil", "English"] },
+          { "time": "15:00", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] },
+          { "time": "18:00", "movie": "Good Bad Ugly", "languages": ["Tamil"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "10:30", "movie": "Dragon", "languages": ["English", "Hindi"] },
+          { "time": "13:30", "movie": "Vidaamuyarchi", "languages": ["Tamil"] },
+          { "time": "16:30", "movie": "Retro", "languages": ["Tamil", "English"] }
+        ]
+      }
+    ]
+  },
+  {
+    "theater_id": "T014",
+    "theater_name": "Luxe Cinemas",
+    "location": "Chennai",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "11:00", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] },
+          { "time": "14:00", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "17:00", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "09:45", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] },
+          { "time": "12:45", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] },
+          { "time": "15:45", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "10:15", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] },
+          { "time": "13:15", "movie": "Thuglife", "languages": ["Tamil"] },
+          { "time": "16:15", "movie": "Tourist Family", "languages": ["Tamil", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "11:30", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] },
+          { "time": "14:30", "movie": "Good Bad Ugly", "languages": ["Tamil"] },
+          { "time": "17:30", "movie": "Dragon", "languages": ["English", "Hindi"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "09:50", "movie": "Vidaamuyarchi", "languages": ["Tamil"] },
+          { "time": "12:50", "movie": "Retro", "languages": ["Tamil", "English"] },
+          { "time": "15:50", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] }
+        ]
+      }
+    ]
+  },
+  {
+    "theater_id": "T015",
+    "theater_name": "Mayajaal Multiplex",
+    "location": "Hyderabad",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "10:00", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "13:00", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "16:00", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "10:30", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] },
+          { "time": "13:30", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] },
+          { "time": "16:30", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "09:45", "movie": "Thuglife", "languages": ["Tamil"] },
+          { "time": "12:45", "movie": "Tourist Family", "languages": ["Tamil", "English"] },
+          { "time": "15:45", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "11:00", "movie": "Good Bad Ugly", "languages": ["Tamil"] },
+          { "time": "14:00", "movie": "Dragon", "languages": ["English", "Hindi"] },
+          { "time": "17:00", "movie": "Vidaamuyarchi", "languages": ["Tamil"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "10:15", "movie": "Retro", "languages": ["Tamil", "English"] },
+          { "time": "13:15", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] },
+          { "time": "16:15", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] }
+        ]
+      }
+    ]
+  },
+  {
+    "theater_id": "T016",
+    "theater_name": "Sangam Cinemas",
+    "location": "Kochi",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "10:30", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "13:30", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] },
+          { "time": "16:30", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "09:45", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] },
+          { "time": "12:45", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] },
+          { "time": "15:45", "movie": "Thuglife", "languages": ["Tamil"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "10:00", "movie": "Tourist Family", "languages": ["Tamil", "English"] },
+          { "time": "13:00", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] },
+          { "time": "16:00", "movie": "Good Bad Ugly", "languages": ["Tamil"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "11:00", "movie": "Dragon", "languages": ["English", "Hindi"] },
+          { "time": "14:00", "movie": "Vidaamuyarchi", "languages": ["Tamil"] },
+          { "time": "17:00", "movie": "Retro", "languages": ["Tamil", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "10:30", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] },
+          { "time": "13:30", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "16:30", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] }
+        ]
+      }
+    ]
+  },
+  {
+    "theater_id": "T017",
+    "theater_name": "Devi Multiplex",
+    "location": "Hyderabad",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "09:45", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] },
+          { "time": "12:45", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] },
+          { "time": "15:45", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "10:00", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] },
+          { "time": "13:00", "movie": "Thuglife", "languages": ["Tamil"] },
+          { "time": "16:00", "movie": "Tourist Family", "languages": ["Tamil", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "11:00", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] },
+          { "time": "14:00", "movie": "Good Bad Ugly", "languages": ["Tamil"] },
+          { "time": "17:00", "movie": "Dragon", "languages": ["English", "Hindi"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "12:00", "movie": "Vidaamuyarchi", "languages": ["Tamil"] },
+          { "time": "15:00", "movie": "Retro", "languages": ["Tamil", "English"] },
+          { "time": "18:00", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "10:15", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "13:15", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "16:15", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] }
+        ]
+      }
+    ]
+  },
+  {
+    "theater_id": "T018",
+    "theater_name": "Abirami Mega Mall",
+    "location": "Chennai",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "10:00", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] },
+          { "time": "13:00", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] },
+          { "time": "16:00", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "10:30", "movie": "Thuglife", "languages": ["Tamil"] },
+          { "time": "13:30", "movie": "Tourist Family", "languages": ["Tamil", "English"] },
+          { "time": "16:30", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "09:45", "movie": "Good Bad Ugly", "languages": ["Tamil"] },
+          { "time": "12:45", "movie": "Dragon", "languages": ["English", "Hindi"] },
+          { "time": "15:45", "movie": "Vidaamuyarchi", "languages": ["Tamil"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "11:00", "movie": "Retro", "languages": ["Tamil", "English"] },
+          { "time": "14:00", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] },
+          { "time": "17:00", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "10:15", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "13:15", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] },
+          { "time": "16:15", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] }
+        ]
+      }
+    ]
+  },
+  {
+    "theater_id": "T019",
+    "theater_name": "S2 Cinemas",
+    "location": "Chennai",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "10:30", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] },
+          { "time": "13:30", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] },
+          { "time": "16:30", "movie": "Thuglife", "languages": ["Tamil"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "09:45", "movie": "Tourist Family", "languages": ["Tamil", "English"] },
+          { "time": "12:45", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] },
+          { "time": "15:45", "movie": "Good Bad Ugly", "languages": ["Tamil"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "10:00", "movie": "Dragon", "languages": ["English", "Hindi"] },
+          { "time": "13:00", "movie": "Vidaamuyarchi", "languages": ["Tamil"] },
+          { "time": "16:00", "movie": "Retro", "languages": ["Tamil", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "11:00", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] },
+          { "time": "14:00", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "17:00", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "10:30", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] },
+          { "time": "13:30", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] },
+          { "time": "16:30", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] }
+        ]
+      }
+    ]
+  },
+  {
+    "theater_id": "T020",
+    "theater_name": "Woodlands Cinemas",
+    "location": "Kochi",
+    "shows": [
+      {
+        "date": "2025-06-18",
+        "showtimes": [
+          { "time": "09:45", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] },
+          { "time": "12:45", "movie": "Thuglife", "languages": ["Tamil"] },
+          { "time": "15:45", "movie": "Tourist Family", "languages": ["Tamil", "English"] }
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "showtimes": [
+          { "time": "10:00", "movie": "When Life Gives You Tangerine", "languages": ["Malayalam", "English"] },
+          { "time": "13:00", "movie": "Good Bad Ugly", "languages": ["Tamil"] },
+          { "time": "16:00", "movie": "Dragon", "languages": ["English", "Hindi"] }
+        ]
+      },
+      {
+        "date": "2025-06-20",
+        "showtimes": [
+          { "time": "11:00", "movie": "Vidaamuyarchi", "languages": ["Tamil"] },
+          { "time": "14:00", "movie": "Retro", "languages": ["Tamil", "English"] },
+          { "time": "17:00", "movie": "Baahubali 2: The Conclusion", "languages": ["Telugu", "Tamil", "Hindi", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-21",
+        "showtimes": [
+          { "time": "12:00", "movie": "Pushpa: The Rule - Part 2", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "15:00", "movie": "RRR", "languages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"] },
+          { "time": "18:00", "movie": "K.G.F: Chapter 2", "languages": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"] }
+        ]
+      },
+      {
+        "date": "2025-06-22",
+        "showtimes": [
+          { "time": "10:30", "movie": "Kalki 2898 AD", "languages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"] },
+          { "time": "13:30", "movie": "2.0", "languages": ["Tamil", "Hindi", "Telugu"] },
+          { "time": "16:30", "movie": "Leo", "languages": ["Tamil", "Telugu", "Hindi"] }
+        ]
+      }
+    ]
+  }
+]
